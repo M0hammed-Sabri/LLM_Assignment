@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+bert_checkpoints/
+saved_models/
+*.zip
+.ipynb_checkpoints/
